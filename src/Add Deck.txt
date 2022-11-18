@@ -1,0 +1,10 @@
+PARA ADICIONAR O DECK PRONTO:
+
+Adicione o import:
+
+import cardsAll from './components/cardsAll';
+
+Coloque em cardList e cardListSave os seguintes valores:
+
+cardList: cardsAll,
+cardListSave: cardsAll,
